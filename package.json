@@ -11,6 +11,7 @@
   
   "license": "ISC",
   "dependencies": {
+    "@discordjs/node-pre-gyp": "github:discordjs/node-pre-gyp",
     "@discordjs/opus": "github:discordjs/opus",
     "discord.js": "^12.5.1",
     "discord.js-commando": "github:discordjs/Commando",
